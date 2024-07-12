@@ -4,7 +4,7 @@
 
 A program that randomizes FFlags.
 
-![Showcase](https://i.ibb.co/9vzcYyk/flagrandomizer.png)
+![Showcase](https://i.ibb.co/YcwVhsJ/flagrandomizer.png)
 
 ## Installation
 
