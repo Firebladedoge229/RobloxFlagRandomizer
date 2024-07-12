@@ -1,4 +1,4 @@
-![Roblox Flag Randomizer](https://github.com/Firebladedoge229/RobloxStudioManager/blob/main/robloxflagrandomizer.png?raw=true)
+![Roblox Flag Randomizer](https://github.com/Firebladedoge229/RobloxFlagRandomizer/blob/main/robloxflagrandomizer.png?raw=true)
 
 # Roblox Flag Randomizer
 
