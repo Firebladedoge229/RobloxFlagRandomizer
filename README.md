@@ -2,7 +2,7 @@
 
 # Roblox Flag Randomizer
 
-A program that randomizes FFlags.
+A program that randomizes a selected amount of FFlags
 
 ![Showcase](https://i.ibb.co/YcwVhsJ/flagrandomizer.png)
 
