@@ -1,4 +1,5 @@
 import re
+import sys
 import random
 import requests
 import argparse
@@ -81,4 +82,4 @@ for key in dictionary:
 items = json(dictionary, indent=2)
 items = f"\033[38;2;52;235;143m{{\033[0m{items.strip()[1:-1]}\033[38;2;52;235;143m}}\033[0m"
 print(items)
-exit()
+sys.exit()
