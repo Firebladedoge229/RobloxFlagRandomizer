@@ -19,6 +19,13 @@ If you are suspicious, feel free to compile the code yourself!
 pyinstaller --onefile --icon=icon.ico robloxflagrandomizer.py
 ```
 
+## Arguments
+
+--min: Sets the Minimum Flag Integer\
+--max: Sets the Maximum Flag Integer\
+--text: Sets the Flag Text\
+--min: Sets the amount of Flags to Generate
+
 ## Author
 
 [Firebladedoge229](https://www.github.com/Firebladedoge229) - Creator
