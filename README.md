@@ -16,7 +16,7 @@ If you are suspicious, feel free to compile the code yourself!
 
 ### Build Command
 ```py
-pyinstaller --onefile --icon=icon.ico --add-data="icon.ico;." flagrandomizer.py
+pyinstaller --onefile --icon=icon.ico robloxflagrandomizer.py
 ```
 
 ## Author
